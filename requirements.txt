@@ -2,4 +2,5 @@ ipywidgets
 pandas
 ydata-profiling
 ipython
-voila
+matplotlib
+plotly
